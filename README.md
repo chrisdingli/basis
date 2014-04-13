@@ -1,0 +1,4 @@
+basis
+=====
+
+Boilerplate for projects
