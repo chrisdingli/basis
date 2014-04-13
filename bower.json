@@ -1,0 +1,24 @@
+{
+  "name": "Project Name",
+  "version": "0.0.0",
+  "authors": [
+    "Christopher Dingli <cldingli@gmail.com>"
+  ],
+  "description": "Project Description",
+  "main": "public/index.html",
+  "license": "MIT",
+  "homepage": "http://chrisdingli.com",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "foundation": "~5.2.2"
+  },
+  "devDependencies": {}
+}
